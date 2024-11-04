@@ -1,6 +1,5 @@
 import calendar
 
-# Print each month by accessing its specific index
 print(calendar.month_name[1])
 print(calendar.month_name[2])
 print(calendar.month_name[3])
