@@ -6,3 +6,5 @@ for key in TestDictionary:
     if TestDictionary[key]==K:
        Res=Res+1
 print("Frequency of Highest Marks is: "+str(Res))
+
+#Miss the hw said the same thing we did in class so i did the samething just with different marks of tests
